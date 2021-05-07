@@ -1,0 +1,8 @@
+{
+  "short_name": "Regulatory Navigation Tool",
+  "name": "Legal Innovation Lab Wales - Regulatory Navigation Tool",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#242F60",
+  "background_color": "#ffffff"
+}

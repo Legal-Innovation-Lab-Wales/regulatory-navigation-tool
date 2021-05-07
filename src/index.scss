@@ -1,0 +1,13 @@
+@import "variables";
+
+section {
+  border-bottom: 1px solid $grey;
+}
+
+a {
+  color: $orange;
+}
+
+.bg-egg-shell {
+  background: $egg-shell;
+}

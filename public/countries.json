@@ -1,0 +1,13 @@
+[{
+  "id": 1,
+  "name": "England & Wales",
+  "colour": "rgb(242, 157, 113)"
+}, {
+  "id": 2,
+  "name": "Scotland",
+  "colour": "rgb(80, 178, 170)"
+}, {
+  "id": 3,
+  "name": "Northern Ireland",
+  "colour": "rgb(137, 116, 208)"
+}]

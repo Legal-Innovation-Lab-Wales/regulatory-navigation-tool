@@ -1,0 +1,89 @@
+[{
+  "id": 1,
+  "name": "Preparing and filing court documents (not tribunal)",
+  "regulators": [1, 2, 3, 4, 5, 9, 12, 13],
+  "heading": "Reserved activity: the conduct of litigation",
+  "subheading": "Different types of cases are dealt with in specific courts or tribunals. Activity is only reserved if the matter is being dealt within a count, not a tribunal.",
+  "text": "<p>Alternative dispute resolution such as conciliation, mediation, ombudsman schemes, arbitration, and adjudication do not involve a court so are not caught.</p><p>This category of reserved activity relates to those aspects of managing a court case that involve the preparation and/or filing of court documents for use in legal proceedings, plus the concept of 'ancillary functions'. These can only be undertaken by a qualified person.</p><p>Claim forms, acknowledgements of service, pleadings, witness statements, court applications, and consent orders would all be caught. Procedural letters and certain supplementary material are not caught.</p><p>Whether the activity relating to these documents will be caught, depends on:</p><em><ol><li>How involved you are in drafting, checking and assuring the documents versus providing a tool for someone to do this for themselves</li><li>Whether the tool enables the user to file the document independently or do they need help</li><li>Whether you are serving documents in an administrative capacity and are not otherwise responsible for running the case</li></ol><p>Note: in the case of JK and MK and E-Negotiation Ltd (trading as 'Amicable'), the judge said \"it is my clear view that an unqualified person will not have \"prepared a document for use in legal proceedings\" unless (a) she has been a major contributor to its drafting and (b) has filed the document with the court.\"</p></em><p>Brining or defending actions for the revocation or infringement of patents, trade marks or registered designs is covered by the IP Regulatory Board and taking legal action to oppose the registration of trade marks involves the UKIPO.</p>",
+  "reserved": true
+}, {
+  "id": 2,
+  "name": "Speaking and addressing a court (not tribunal)",
+  "regulators": [1, 2, 3, 4, 5, 9, 10, 12, 13],
+  "heading": "Reserved activity: the exercise of right of audience",
+  "subheading": "To address a court/judge you need the right to do so, either as a qualified person or by specific permission of the court.",
+  "text": "<p>This only applies to courts, not other institutions like tribunals and does not apply to alternative dispute resolution such as conciliation, mediation, ombudsman schemes, arbitration, and adjudication which do not involve a court.</p><p>Sometimes judges hear cases in their office (called chambers) and often there are no restrictions on who can address them in these hearings. In almost all proceedings a person or business can represent themselves and address the court without the need for a regulated lawyer.</p>",
+  "reserved": true
+}, {
+  "id": 3,
+  "name": "Transfer documents",
+  "regulators": [1, 2, 3, 4, 7, 9, 12, 13],
+  "heading": "Reserved activity: reserved instrument activity",
+  "subheading": "This category relates to what are called “reserved instruments'.",
+  "text": "<p>These include documents for the following:</p><ul><li>Mortgage / charge deeds</li><li>Land documents</li><li>Land / heritable property</li><li>Moveable property</li><li>Application for grant of confirmation / probate</li></ul><p>Only authorised individuals are allowed to execute these documents. Supervised preparation (i.e. where a regulated person supervises a non-regulated person to prepare reserved instruments) is permitted, providing the supervising person is authorised in the relevant jurisdiction (and, for Northern Ireland, there is also a rule that the supervision must be part of an employment arrangement).</p><p>The preparation of the documents themselves and the making of any application to the Land Registry are reserved.</p><p>This activity is only reserved if it is undertaken for a fee/other reward. This means individuals can do their own conveyancing.</p><p>Activity involving the transfer of rights, or the acquisition of third party patent,design or trade mark is covered by the IP Regulation Board.</p><p>Drafting and negotiating contracts is not reserved activity and can be undertaken by anyone.</p><p>Preparing IP related documents such as licences, assignments, patents, plus related research and mediation of such matters or any activity before the UK Intellectual Property Office is not reserved and can be done by anyone.</p>",
+  "reserved": true
+}, {
+  "id": 4,
+  "name": "Probate / Confirmation",
+  "regulators": [1, 2, 3, 6, 7, 8, 9, 12, 13],
+  "heading": "Reserved activity: probate activities",
+  "subheading": "The act of preparing the papers necessary to apply for a grant of probate or grant of letters of administration or oppose the grant on someone's death, is reserved legal activity.",
+  "text": "<p>A person can only charge a fee for preparing probate paperwork if they are a legal professional who is authorised to do so.</p><p>If a person who is named in a will as an executor or the next of kin of a person who dies without a will (also known as “intestate') wants to make their own application for probate, they can do so.</p><p>The actual administration of the estate is not a reserved activity and may be undertaken by anybody.</p>",
+  "reserved": true
+}, {
+  "id": 5,
+  "name": "Oaths",
+  "regulators": [1, 2, 3, 4, 5, 6, 7, 8, 9, 12],
+  "heading": "Reserved activity: the administration of oaths",
+  "subheading": "The power to administer or hear someone make a sworn legal statement is a reserved legal activity and may only be carried out by a lawyer who is regulated to act as a “Commissioner for Oaths” or some other person who has been specifically appointed.",
+  "text": "<p>Although governed by different legislation the same principles apply to a Statutory Declaration.</p>",
+  "reserved": true
+}, {
+  "id": 6,
+  "name": "Authentication",
+  "regulators": [6, 9, 12],
+  "heading": "Reserved activity: notarial activities",
+  "subheading": "This involves the process of proving, showing or confirming a document to be genuine or valid and may involve specific rules or qualifications, depending on the person or organisation receiving and relying on the document.",
+  "text": "<p>If the document is needed for use in another country then it is likely that this will need to be authenticated by a ‘Notary Public'. Notarial work is a regulated activity and only a person who has been appointed as a notary public is entitled to undertake this work.</p><p>Anyone can say that they have authenticated or witnessed a document, but this may not meet the specific requirements e.g. Passport Office.</p><p>Generally, if a document needs to be “authenticated or‘certified for use in the UK,organisations would expect this to be undertaken by a lawyer or another trusted professional e.g. an accountant, doctor or magistrate.</p>",
+  "reserved": true
+}, {
+  "id": 7,
+  "name": "Contingency fees",
+  "regulators": [12, 13],
+  "heading": "",
+  "subheading": "Taking a fee conditional on the outcome of any matter including a % of damages paid in litigation is not allowed in Northern Ireland but is allowed in England & Wales and Scotland.",
+  "text": "<p><em>Note: technology such as disclosure tech with a fee based on % pay out is outside reserved activity.</em></p>",
+  "reserved": false
+}, {
+  "id": 8,
+  "name": "Data processing for a regulated business",
+  "regulators": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+  "heading": "",
+  "subheading": "If your service involves processing client data for a regulated legal services provider, legal services regulators may require access to documents and information relating to the regulated business.",
+  "text": "<p>Data protection legislation will apply for any processing of personal data and confidentiality standards should also be considered.</p><p>For data protection guidance, see the Information Commissioner's Office website.</p><p><em>Note: processing data is not a reserved activity.</em></p>",
+  "reserved": false
+}, {
+  "id": 9,
+  "name": "Referral Fees",
+  "regulators": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+  "heading": "",
+  "subheading": "Referral fees are any payments for the referral or introduction of a client or potential client and in a range of cases are either not allowed (for example in Northern Ireland, and in personal injury and criminal cases in England and Wales) or are subject to important rules, for example around transparency and no cold calling.",
+  "text": "<p>It is sometimes hard to identify whether something is or is not a referral fee and this is worth researching carefully. Dedicated regulator guidance is available at the regulators' websites.</p><p><em>Note: referral fees are not a reserved activity.</em></p>",
+  "reserved": false
+}, {
+  "id": 10,
+  "name": "Fee sharing with regulated businesses",
+  "regulators": [9, 10, 11, 12, 13],
+  "heading": "",
+  "subheading": "In Scotland and Northern Ireland, fee sharing between regulated and unregulated providers is banned.",
+  "text": "<p>These restrictions do not apply in England & Wales.</p><p><em>Note: fee sharing is not a reserved activity.</em></p>",
+  "reserved": false
+}, {
+  "id": 11,
+  "name": "Ownership of a legal services business",
+  "regulators": [1, 2, 4, 7, 8, 9, 10, 11, 12, 13],
+  "heading": "",
+  "subheading": "In Scotland and Northern Ireland, only lawyers are legally allowed to own or invest in businesses providing regulated legal services.",
+  "text": "<p>This restriction does not apply in England & Wales. It is commonplace for people who are not lawyers to own or invest in legal services businesses, multi-disciplinary practices and alternative business structures.</p><p>Alternative business structures are nonetheless subject to authorisation by the relevant regulators.</p>",
+  "reserved": false
+}]

@@ -1,0 +1,24 @@
+@import "../../variables";
+
+.footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid $orange;
+}
+
+.country {
+  padding: 0;
+  display: flex;
+  align-items: center;
+
+  .block {
+    height: 15px;
+    width: 15px;
+    margin-right: 5px;
+    margin-left: auto;
+  }
+
+  div:last-child {
+    margin-right: auto;
+  }
+}

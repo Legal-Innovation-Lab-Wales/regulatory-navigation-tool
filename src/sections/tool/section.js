@@ -50,7 +50,7 @@ export default class Section extends React.Component {
   render() {
     return (
       <section id="tool">
-        <Container fluid className={'p-3'}>
+        <Container fluid>
           <h3><strong>Regulatory Navigation Tool</strong> - click an activity for details</h3>
           <Row>
             <Col xs={6}>

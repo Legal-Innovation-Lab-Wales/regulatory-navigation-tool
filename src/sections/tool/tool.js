@@ -42,7 +42,7 @@ class Activities extends React.Component {
       <Container className={'activities'}>
         <Row>
           <Col xs={1} className={'marker'}>
-            <div>{ this.props.marker_text }</div>
+            <div>{ this.props.reserved ? '' : 'Not ' }Reserved</div>
           </Col>
           <Col xs={10}>
             <Container>
@@ -58,16 +58,12 @@ class Activities extends React.Component {
 
 export default class Tool extends React.Component {
   render() {
-    // this.props.parent
-    // this.props.selected
-    // this.props.activities
-    // this.props.regulators
     return (
         <Container className={'tool'}>
           <Row>
             <Col xs={7}>
-              <Activities activities={this.props.activities} parent={this.props.parent} marker_text={'Reserved'} reserved={true} />
-              <Activities activities={this.props.activities} parent={this.props.parent} marker_text={'Not Reserved'} reserved={false} />
+              <Activities activities={this.props.activities} parent={this.props.parent} reserved={true} />
+              <Activities activities={this.props.activities} parent={this.props.parent} reserved={false} />
             </Col>
             <Col xs={5}>
               <Container>

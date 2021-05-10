@@ -1,8 +1,8 @@
 import React from "react";
 import { Container } from "react-bootstrap";
-import "./cover.scss"
+import './section.scss'
 
-export default class Cover extends React.Component {
+export default class Section extends React.Component {
   render() {
     return (
       <section id="cover">

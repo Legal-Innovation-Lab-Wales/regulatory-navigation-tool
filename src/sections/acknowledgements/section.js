@@ -34,8 +34,12 @@ export default class Section extends React.Component {
                   <a href={'mailto:lawtechuk@technation.io'}>lawtechuk@technation.io.</a>
                 </p>
               </Col>
-              <Col xs={4} className={'d-flex align-items-end'}>
-                <p>LAWTECH UK</p>
+              <Col xs={4} className={'logo'}>
+                <img src={'lawtech-uk.png'} alt={'Law Tech UK Logo'} />
+              </Col>
+            </Row>
+            <Row>
+              <Col>
               </Col>
             </Row>
           </Container>

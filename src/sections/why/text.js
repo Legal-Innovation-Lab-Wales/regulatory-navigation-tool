@@ -8,7 +8,7 @@ export default class Text extends React.Component {
         <h3>Why a Regulatory Navigation Tool?</h3>,
         <h6>This tool is to help those innovating in law to navigate the regulatory landscape and quickly see which
         activities require regulatory exemption.</h6>,
-        <Container className={'p-0'}>
+        <Container>
           <Row>
             <Col>
               <p>There are six categories of legal services that are&nbsp;

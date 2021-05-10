@@ -1,0 +1,79 @@
+[{
+  "id": 1,
+  "country": 1,
+  "name": "Solicitors Regulation Authority",
+  "profession": "Solicitors",
+  "professional_body": "The Law Society of England and Wales"
+}, {
+  "id": 2,
+  "country": 1,
+  "name": "Bar Standards Board",
+  "profession": "Barristers",
+  "professional_body": "Bar Council"
+}, {
+  "id": 3,
+  "country": 1,
+  "name": "CILEx Regulation",
+  "profession": "Chartered Legal Executives",
+  "professional_body": "Chartered Institute of Patent Attorneys"
+}, {
+  "id": 4,
+  "country": 1,
+  "name": "Intellectual Property Regulation Board",
+  "profession": ["Patent Attorneys", "Trade Mark Attorneys"],
+  "professional_body": ["Chartered Institute of Patent Attorneys", "Chartered Institute of Trade Mark Attorneys"]
+}, {
+  "id": 5,
+  "country": 1,
+  "name": "Costs Lawyer Standards Board",
+  "profession": "Costs Lawyers",
+  "professional_body": "Association of Cost Lawyers"
+}, {
+  "id": 6,
+  "country": 1,
+  "name": "Master of Faculties",
+  "profession": "Notaries",
+  "professional_body": "Master of Faculties"
+}, {
+  "id": 7,
+  "country": 1,
+  "name": "Council for Licensed Conveyancers",
+  "profession": "Council for Licensed Conveyancers",
+  "professional_body": "Licensed Conveyancers"
+}, {
+  "id": 8,
+  "country": 1,
+  "name": "ICAEW Regulatory Board",
+  "profession": "Chartered Accountants",
+  "professional_body": "Institute of Chartered Accountants in England and Wales"
+}, {
+  "id": 9,
+  "country": 2,
+  "name": "The Law Society of Scotland",
+  "profession": "Solicitors",
+  "professional_body": "The Law Society of Scotland"
+}, {
+  "id": 10,
+  "country": 2,
+  "name": "Faculty of Advocates",
+  "profession": "Advocates (like Barristers)",
+  "professional_body": "Faculty of Advocates"
+}, {
+  "id": 11,
+  "country": 2,
+  "name": "Association of Commercial Attorneys",
+  "profession": "Commercial Attorneys",
+  "professional_body": "Association of Commercial Attorneys"
+}, {
+  "id": 12,
+  "country": 3,
+  "name": "The Law Society of Northern Ireland",
+  "profession": "Solicitors",
+  "professional_body": "The Law Society of Northern Ireland"
+}, {
+  "id": 13,
+  "country": 3,
+  "name": "Bar Council of Northern Ireland",
+  "profession": "Barristers",
+  "professional_body": "Bar Council of Northern Ireland"
+}]

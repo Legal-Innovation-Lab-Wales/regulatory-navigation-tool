@@ -1,0 +1,57 @@
+@import "../../variables";
+
+section#why {
+  .text {
+    h3 {
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+
+    .container {
+      padding: 0;
+    }
+  }
+
+  .image {
+    display: flex;
+    align-items: center;
+
+    .container {
+      .row:first-child {
+        justify-content: center;
+      }
+
+      .row:last-child {
+        color: $orange;
+        text-align: center;
+      }
+
+      .outer-circle, .inner-circle {
+        display: flex;
+        justify-content: center;
+        border-radius: 50%;
+
+        div {
+          font-weight: bold;
+          color: $white;
+          align-self: center;
+        }
+      }
+
+      .outer-circle {
+        position: relative;
+        width: 300px;
+        height: 300px;
+        background: $cyan;
+
+        .inner-circle {
+          position: absolute;
+          bottom: 0;
+          width: 100px;
+          height: 100px;
+          background: $orange;
+        }
+      }
+    }
+  }
+}

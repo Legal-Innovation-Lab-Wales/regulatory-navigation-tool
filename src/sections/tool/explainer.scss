@@ -1,0 +1,22 @@
+@import "../../variables";
+
+.explainer {
+  background: $egg-shell;
+  box-shadow: 3px 3px 3px 3px $dark-grey;
+  height: 100%;
+
+  h5 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  tbody {
+    tr {
+      opacity: 0.5;
+
+      &.selected {
+        opacity: 1;
+      }
+    }
+  }
+}

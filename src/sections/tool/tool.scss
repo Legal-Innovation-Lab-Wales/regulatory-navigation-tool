@@ -1,0 +1,80 @@
+@import "../../variables";
+
+.tool {
+  .marker {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid $black;
+    margin: 10px 0;
+
+    div {
+      transform: rotate(-90deg);
+      min-width: 100px;
+    }
+  }
+
+  .activities {
+    .container {
+      .row {
+        display: flex;
+        align-items: center;
+        justify-items: center;
+        min-height: 56px;
+
+        .col-11 {
+          display: flex;
+          justify-content: end;
+          align-items: center;
+          text-align: right;
+        }
+      }
+
+      .activity {
+        &.selected {
+          color: $brand-primary;
+
+          .bar {
+            background: $brand-primary;
+          }
+        }
+
+        &:hover {
+          text-decoration: underline;
+          cursor: pointer;
+          color: $brand-primary;
+
+          .bar {
+            background: $brand-primary !important;
+          }
+        }
+      }
+
+      .selected {
+        font-weight: bold;
+      }
+    }
+  }
+
+  .bar {
+    background: $dark-grey;
+    padding: 0;
+    min-width: 20px;
+    height: 40px;
+  }
+
+  .name {
+    width: calc(100% - 50px);
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    text-align: left;
+    margin: 0 15px;
+    line-height: 1.25;
+
+    &.align-right {
+      justify-content: end;
+      text-align: right;
+    }
+  }
+}

@@ -81,7 +81,7 @@ export default class Text extends React.Component {
                 This tool should not be taken as legal advice and cannot replace specific analysis of and
                 consultation on your plans and circumstances.</p>
               <p><em>If you have feedback, suggestions or discover inaccuracies,
-                please do <a href={'#'}>let us know.</a></em></p>
+                please do <a href={'mailto:legalinnovation@swansea.ac.uk'}>let us know.</a></em></p>
             </Col>
           </Row>
         </Container>

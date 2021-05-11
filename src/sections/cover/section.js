@@ -7,6 +7,7 @@ export default class Section extends React.Component {
     return (
       <section id="cover">
         <Container fluid>
+          <img src={'lawtech-uk.png'} alt={'Law Tech UK Logo'} className={'law-tech-uk-logo'} />
           <h1>Regulatory Navigation Tool</h1>
           <h3>A quick reference guide for tech companies innovating in law</h3>
           <h6>Accurate as at 30 April 2021</h6>

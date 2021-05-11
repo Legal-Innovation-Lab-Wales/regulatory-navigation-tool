@@ -38,8 +38,9 @@ export default class Section extends React.Component {
                 <img src={'lawtech-uk.png'} alt={'Law Tech UK Logo'} />
               </Col>
             </Row>
-            <Row>
-              <Col>
+            <Row className={'rru-row'}>
+              <Col className={'d-flex justify-content-center'}>
+                <img src={'rru.png'} alt={'Regulatory Response Unit'} className={'rru'}/>
               </Col>
             </Row>
           </Container>

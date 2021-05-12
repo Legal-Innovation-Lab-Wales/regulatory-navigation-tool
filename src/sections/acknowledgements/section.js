@@ -35,7 +35,9 @@ export default class Section extends React.Component {
                 </p>
               </Col>
               <Col xs={4} className={'logo'}>
-                <img src={'lawtech-uk.png'} alt={'Law Tech UK Logo'} />
+                <a href={'https://technation.io/lawtechuk/'}>
+                  <img src={'lawtech-uk.png'} alt={'Law Tech UK Logo'} />
+                </a>
               </Col>
             </Row>
             <Row className={'rru-row'}>

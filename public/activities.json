@@ -81,7 +81,7 @@
 }, {
   "id": 11,
   "name": "Ownership of a legal services business",
-  "regulators": [1, 2, 4, 7, 8, 9, 10, 11, 12, 13],
+  "regulators": [1, 2, 3, 4, 7, 8, 9, 10, 11, 12, 13],
   "heading": "",
   "subheading": "In Scotland and Northern Ireland, only lawyers are legally allowed to own or invest in businesses providing regulated legal services.",
   "text": "<p>This restriction does not apply in England & Wales. It is commonplace for people who are not lawyers to own or invest in legal services businesses, multi-disciplinary practices and alternative business structures.</p><p>Alternative business structures are nonetheless subject to authorisation by the relevant regulators.</p>",

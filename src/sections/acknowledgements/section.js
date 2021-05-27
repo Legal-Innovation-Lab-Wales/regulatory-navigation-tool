@@ -33,6 +33,13 @@ export default class Section extends React.Component {
                   You can submit feedback or register your interest to receive updates, by emailing&nbsp;
                   <a href={'mailto:lawtechuk@technation.io'}>lawtechuk@technation.io.</a>
                 </p>
+                <h6>Legal Innovation Lab Wales</h6>
+                <p>
+                  This version of the tool was created by the <a href={"https://legaltech.wales"}>Legal Innovation Lab
+                  Wales</a>. All of the content remains theirs. This tool is just a reproduction&nbsp;
+                  <a href={"https://35z8e83m1ih83drye280o9d1-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/Regulatory-Navigation-Tool.pdf"} rel={"nofollow"}>
+                    the original</a> remains as the source of truth.
+                </p>
               </Col>
               <Col xs={4} className={'logo'}>
                 <a href={'https://technation.io/lawtechuk/'}>
